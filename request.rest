@@ -1,0 +1,8 @@
+POST  http://localhost:5000/sendEmail
+Content-Type: application/json
+
+{
+    "name": "Al-min Ajadi",
+    "email": "akalmin247@gmail.com",
+    "message": "Testing email sending api"
+}
